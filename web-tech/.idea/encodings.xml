@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/index.html" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/css/reset.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/css/style.css.map" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/img" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/img/logo" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/img/logo/facebook-svgrepo-com.svg" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/img/logo/linkedin-svgrepo-com.svg" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/img/logo/twitter-svgrepo-com.svg" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/scss/style.scss" charset="UTF-16" />
+    <file url="PROJECT" charset="UTF-16" />
+  </component>
+</project>

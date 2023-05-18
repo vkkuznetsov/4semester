@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "yearPublished": 1951,
+    "copies": 3
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "yearPublished": 1960,
+    "copies": 5
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "yearPublished": 1949,
+    "copies": 2
+  }
+]
